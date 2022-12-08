@@ -8,3 +8,20 @@ body {
     background: lightpink;
     font-size: 80px;
 }
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    font-size: 3rem;
+    margin: 30px 50px;
+    color: #222;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+}
